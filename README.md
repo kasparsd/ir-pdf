@@ -14,7 +14,7 @@
 
 ## Kā lietot?
 
-1.  Atver `ir.php` un norādi savu ir.lv lietotāja vārdu un paroli.
+1.  Atver `ir.php` un norādi savu ir.lv lietotāja vārdu un paroli, kā arī epastus, uz kuriem nosūtīt izveidoto PDF.
 2.  Darbini rīku no komandrindas:
 
 		php ir.php
